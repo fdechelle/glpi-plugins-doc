@@ -49,6 +49,7 @@ You'll find here user documentation for various `GLPI <http://glpi-project.org>`
    anonymize/index
    approvalbymail/index
    branding/index
+   carbon/index
    webhook/index
    GDPR/index
    glpiai/index
