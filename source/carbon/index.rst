@@ -1,5 +1,5 @@
-Form creator
-============
+Carbon
+======
 
 .. list-table::
    :header-rows: 1
